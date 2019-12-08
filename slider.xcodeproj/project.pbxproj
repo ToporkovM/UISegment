@@ -15,6 +15,7 @@
 		04783680238D1F2D00C9F4B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0478367E238D1F2D00C9F4B9 /* LaunchScreen.storyboard */; };
 		0478368B238D1F2D00C9F4B9 /* sliderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0478368A238D1F2D00C9F4B9 /* sliderTests.swift */; };
 		04783696238D1F2D00C9F4B9 /* sliderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04783695238D1F2D00C9F4B9 /* sliderUITests.swift */; };
+		047836A8238D4BA300C9F4B9 /* 123.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 047836A7238D4BA300C9F4B9 /* 123.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		04783691238D1F2D00C9F4B9 /* sliderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sliderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04783695238D1F2D00C9F4B9 /* sliderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sliderUITests.swift; sourceTree = "<group>"; };
 		04783697238D1F2D00C9F4B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		047836A7238D4BA300C9F4B9 /* 123.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 123.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				04783673238D1F2800C9F4B9 /* AppDelegate.swift */,
 				04783675238D1F2800C9F4B9 /* SceneDelegate.swift */,
 				04783677238D1F2800C9F4B9 /* ViewController.swift */,
+				047836A7238D4BA300C9F4B9 /* 123.mp3 */,
 				04783679238D1F2800C9F4B9 /* Main.storyboard */,
 				0478367C238D1F2D00C9F4B9 /* Assets.xcassets */,
 				0478367E238D1F2D00C9F4B9 /* LaunchScreen.storyboard */,
@@ -113,8 +116,8 @@
 		04783689238D1F2D00C9F4B9 /* sliderTests */ = {
 			isa = PBXGroup;
 			children = (
-				0478368A238D1F2D00C9F4B9 /* sliderTests.swift */,
 				0478368C238D1F2D00C9F4B9 /* Info.plist */,
+				0478368A238D1F2D00C9F4B9 /* sliderTests.swift */,
 			);
 			path = sliderTests;
 			sourceTree = "<group>";
@@ -235,6 +238,7 @@
 				04783680238D1F2D00C9F4B9 /* LaunchScreen.storyboard in Resources */,
 				0478367D238D1F2D00C9F4B9 /* Assets.xcassets in Resources */,
 				0478367B238D1F2800C9F4B9 /* Main.storyboard in Resources */,
+				047836A8238D4BA300C9F4B9 /* 123.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
